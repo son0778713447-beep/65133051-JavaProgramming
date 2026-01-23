@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab01 {
+public class Lab01_Bai1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap ho va ten: ");
